@@ -1,0 +1,379 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TCG fallback images</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --ink: #171717;
+        --muted: #5f6368;
+        --line: #d8dadd;
+        --paper: #fafafa;
+        --panel: #ffffff;
+        --accent: #0969da;
+        --accent-strong: #034ea2;
+        --leaf: #16794c;
+        --rose: #b42358;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        background: var(--paper);
+        color: var(--ink);
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 1.45;
+      }
+
+      main {
+        width: min(1180px, calc(100% - 32px));
+        margin: 0 auto;
+        padding: 28px 0 42px;
+      }
+
+      header {
+        display: grid;
+        gap: 14px;
+        padding-bottom: 22px;
+        border-bottom: 1px solid var(--line);
+      }
+
+      h1 {
+        margin: 0;
+        font-size: clamp(1.8rem, 3vw, 2.7rem);
+        line-height: 1.1;
+      }
+
+      p {
+        margin: 0;
+        color: var(--muted);
+        max-width: 760px;
+      }
+
+      .toolbar {
+        display: grid;
+        grid-template-columns: 1fr auto auto;
+        gap: 10px;
+        align-items: center;
+        margin: 22px 0;
+      }
+
+      input,
+      select,
+      button {
+        min-height: 42px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--panel);
+        color: var(--ink);
+        font: inherit;
+      }
+
+      input,
+      select {
+        padding: 0 12px;
+      }
+
+      button {
+        padding: 0 16px;
+        background: var(--accent);
+        border-color: var(--accent);
+        color: #ffffff;
+        cursor: pointer;
+      }
+
+      button:hover {
+        background: var(--accent-strong);
+      }
+
+      .status {
+        min-height: 24px;
+        margin-bottom: 14px;
+        color: var(--muted);
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+        gap: 14px;
+      }
+
+      .item {
+        display: grid;
+        grid-template-rows: 172px auto;
+        overflow: hidden;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--panel);
+      }
+
+      .thumb {
+        display: grid;
+        place-items: center;
+        min-width: 0;
+        background: #edf4f2;
+      }
+
+      .thumb img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+      }
+
+      .meta {
+        display: grid;
+        gap: 9px;
+        min-width: 0;
+        padding: 12px;
+      }
+
+      .path {
+        min-height: 42px;
+        overflow-wrap: anywhere;
+        font-family: Consolas, "Courier New", monospace;
+        font-size: 0.88rem;
+      }
+
+      .links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+      }
+
+      a {
+        color: var(--accent);
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      .pill {
+        display: inline-flex;
+        align-items: center;
+        min-height: 30px;
+        padding: 0 10px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: #ffffff;
+        color: var(--ink);
+        font-size: 0.9rem;
+      }
+
+      .empty,
+      .error {
+        padding: 18px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--panel);
+      }
+
+      .error {
+        border-color: var(--rose);
+      }
+
+      .copy-ok {
+        color: var(--leaf);
+      }
+
+      @media (max-width: 720px) {
+        main {
+          width: min(100% - 22px, 1180px);
+          padding-top: 20px;
+        }
+
+        .toolbar {
+          grid-template-columns: 1fr;
+        }
+
+        .grid {
+          grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+          gap: 10px;
+        }
+
+        .item {
+          grid-template-rows: 150px auto;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <h1>TCG fallback images</h1>
+        <p>Busque cartas por idioma, colecao, numero ou qualidade. Cada imagem abaixo pode ser aberta diretamente pela URL do GitHub Pages.</p>
+      </header>
+
+      <section class="toolbar" aria-label="Filtros">
+        <input id="search" type="search" autocomplete="off" placeholder="Ex: pt sve 001 high" aria-label="Buscar arquivos">
+        <select id="language" aria-label="Filtrar idioma">
+          <option value="">Todos os idiomas</option>
+          <option value="de/">de</option>
+          <option value="en/">en</option>
+          <option value="es/">es</option>
+          <option value="fr/">fr</option>
+          <option value="it/">it</option>
+          <option value="pt/">pt</option>
+        </select>
+        <button id="copyBase" type="button">Copiar URL base</button>
+      </section>
+
+      <div id="status" class="status" role="status">Carregando arquivos...</div>
+      <section id="files" class="grid" aria-label="Arquivos"></section>
+    </main>
+
+    <script>
+      const owner = "andersonpss";
+      const repo = "tcgdex-fallback-images-";
+      const branch = "main";
+      const pageSize = 80;
+
+      const filesEl = document.querySelector("#files");
+      const statusEl = document.querySelector("#status");
+      const searchEl = document.querySelector("#search");
+      const languageEl = document.querySelector("#language");
+      const copyBaseEl = document.querySelector("#copyBase");
+
+      let imageFiles = [];
+
+      function pageUrl(path) {
+        return `${window.location.origin}${window.location.pathname.replace(/\/$/, "")}/${path}`;
+      }
+
+      function matchesFilters(path) {
+        const term = searchEl.value.trim().toLowerCase();
+        const language = languageEl.value;
+        const languageOk = !language || path.startsWith(language);
+        const termOk = !term || term.split(/\s+/).every((part) => path.toLowerCase().includes(part));
+        return languageOk && termOk;
+      }
+
+      function visibleFiles() {
+        return imageFiles.filter((file) => matchesFilters(file.path));
+      }
+
+      function render() {
+        const files = visibleFiles();
+        filesEl.textContent = "";
+
+        statusEl.textContent = `${files.length} de ${imageFiles.length} imagens`;
+
+        if (!files.length) {
+          const empty = document.createElement("div");
+          empty.className = "empty";
+          empty.textContent = "Nenhuma imagem encontrada para esses filtros.";
+          filesEl.append(empty);
+          return;
+        }
+
+        const fragment = document.createDocumentFragment();
+
+        files.slice(0, pageSize).forEach((file) => {
+          const card = document.createElement("article");
+          card.className = "item";
+
+          const thumb = document.createElement("a");
+          thumb.className = "thumb";
+          thumb.href = pageUrl(file.path);
+          thumb.target = "_blank";
+          thumb.rel = "noreferrer";
+          thumb.setAttribute("aria-label", `Abrir ${file.path}`);
+
+          const image = document.createElement("img");
+          image.loading = "lazy";
+          image.decoding = "async";
+          image.src = file.path;
+          image.alt = file.path;
+          thumb.append(image);
+
+          const meta = document.createElement("div");
+          meta.className = "meta";
+
+          const path = document.createElement("div");
+          path.className = "path";
+          path.textContent = file.path;
+
+          const links = document.createElement("div");
+          links.className = "links";
+
+          const open = document.createElement("a");
+          open.className = "pill";
+          open.href = pageUrl(file.path);
+          open.target = "_blank";
+          open.rel = "noreferrer";
+          open.textContent = "Abrir";
+
+          const raw = document.createElement("a");
+          raw.className = "pill";
+          raw.href = file.html_url;
+          raw.target = "_blank";
+          raw.rel = "noreferrer";
+          raw.textContent = "GitHub";
+
+          links.append(open, raw);
+          meta.append(path, links);
+          card.append(thumb, meta);
+          fragment.append(card);
+        });
+
+        filesEl.append(fragment);
+
+        if (files.length > pageSize) {
+          const more = document.createElement("div");
+          more.className = "empty";
+          more.textContent = `Mostrando ${pageSize}. Refine a busca para ver arquivos especificos.`;
+          filesEl.append(more);
+        }
+      }
+
+      async function loadTree() {
+        const api = `https://api.github.com/repos/${owner}/${repo}/git/trees/${branch}?recursive=1`;
+        const response = await fetch(api, {
+          headers: { Accept: "application/vnd.github+json" }
+        });
+
+        if (!response.ok) {
+          throw new Error(`GitHub API retornou ${response.status}`);
+        }
+
+        const data = await response.json();
+        imageFiles = data.tree
+          .filter((item) => item.type === "blob" && item.path.endsWith(".webp"))
+          .map((item) => ({
+            path: item.path,
+            html_url: `https://github.com/${owner}/${repo}/blob/${branch}/${item.path}`
+          }))
+          .sort((a, b) => a.path.localeCompare(b.path));
+
+        render();
+      }
+
+      [searchEl, languageEl].forEach((control) => {
+        control.addEventListener("input", render);
+      });
+
+      copyBaseEl.addEventListener("click", async () => {
+        const base = `${window.location.origin}${window.location.pathname.replace(/\/$/, "")}/`;
+        await navigator.clipboard.writeText(base);
+        copyBaseEl.textContent = "URL copiada";
+        copyBaseEl.classList.add("copy-ok");
+        window.setTimeout(() => {
+          copyBaseEl.textContent = "Copiar URL base";
+          copyBaseEl.classList.remove("copy-ok");
+        }, 1600);
+      });
+
+      loadTree().catch((error) => {
+        statusEl.textContent = "";
+        filesEl.innerHTML = `<div class="error">Nao foi possivel carregar a lista de arquivos. ${error.message}.</div>`;
+      });
+    </script>
+  </body>
+</html>
