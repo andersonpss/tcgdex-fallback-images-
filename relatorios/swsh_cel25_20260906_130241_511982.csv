@@ -1,0 +1,26 @@
+﻿id;numero;nome;status;arquivos_locais;detalhe
+cel25-1;1;Ho-Oh;falta_nos_dois;;Todas as variantes WEBP/PNG retornaram 404/410
+cel25-2;2;Reshiram;falta_nos_dois;;Todas as variantes WEBP/PNG retornaram 404/410
+cel25-3;3;Kyogre;falta_nos_dois;;Todas as variantes WEBP/PNG retornaram 404/410
+cel25-4;4;Palkia;falta_nos_dois;;Todas as variantes WEBP/PNG retornaram 404/410
+cel25-5;5;Pikachu;falta_nos_dois;;Todas as variantes WEBP/PNG retornaram 404/410
+cel25-6;6;Pikachu Voador V;falta_nos_dois;;Todas as variantes WEBP/PNG retornaram 404/410
+cel25-7;7;Pikachu Voador VMAX;falta_nos_dois;;Todas as variantes WEBP/PNG retornaram 404/410
+cel25-8;8;Pikachu Surfista V;falta_nos_dois;;Todas as variantes WEBP/PNG retornaram 404/410
+cel25-9;9;Pikachu Surfista VMAX;falta_nos_dois;;Todas as variantes WEBP/PNG retornaram 404/410
+cel25-10;10;Zekrom;falta_nos_dois;;Todas as variantes WEBP/PNG retornaram 404/410
+cel25-11;11;Mew;falta_nos_dois;;Todas as variantes WEBP/PNG retornaram 404/410
+cel25-12;12;Xerneas;falta_nos_dois;;Todas as variantes WEBP/PNG retornaram 404/410
+cel25-13;13;Cosmog;falta_nos_dois;;Todas as variantes WEBP/PNG retornaram 404/410
+cel25-14;14;Cosmoem;falta_nos_dois;;Todas as variantes WEBP/PNG retornaram 404/410
+cel25-15;15;Lunala;falta_nos_dois;;Todas as variantes WEBP/PNG retornaram 404/410
+cel25-16;16;Zacian V;falta_nos_dois;;Todas as variantes WEBP/PNG retornaram 404/410
+cel25-17;17;Groudon;falta_nos_dois;;Todas as variantes WEBP/PNG retornaram 404/410
+cel25-18;18;Zamazenta V;falta_nos_dois;;Todas as variantes WEBP/PNG retornaram 404/410
+cel25-19;19;Yveltal;falta_nos_dois;;Todas as variantes WEBP/PNG retornaram 404/410
+cel25-20;20;Dialga;falta_nos_dois;;Todas as variantes WEBP/PNG retornaram 404/410
+cel25-21;21;Solgaleo;falta_nos_dois;;Todas as variantes WEBP/PNG retornaram 404/410
+cel25-22;22;Lugia;falta_nos_dois;;Todas as variantes WEBP/PNG retornaram 404/410
+cel25-23;23;Pesquisa de Professores;falta_nos_dois;;Todas as variantes WEBP/PNG retornaram 404/410
+cel25-24;24;Pesquisa de Professores;falta_nos_dois;;Todas as variantes WEBP/PNG retornaram 404/410
+cel25-25;25;Mew;ja_existe_local;"pt\swsh\cel25\25\high.webp; pt\swsh\cel25\25\low.webp";API não informa imagem em português

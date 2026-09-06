@@ -1,0 +1,9 @@
+﻿id;numero;nome;status;arquivos_locais;detalhe
+mee-001;001;Energia de Grama;ja_existe_local;"pt\me\mee\001\high.webp; pt\me\mee\001\low.webp";API não informa imagem em português
+mee-002;002;Energia de Fogo;ja_existe_local;"pt\me\mee\002\high.webp; pt\me\mee\002\low.webp";API não informa imagem em português
+mee-003;003;Energia de Água;ja_existe_local;"pt\me\mee\003\high.webp; pt\me\mee\003\low.webp";API não informa imagem em português
+mee-004;004;Energia de Raios;ja_existe_local;"pt\me\mee\004\high.webp; pt\me\mee\004\low.webp";API não informa imagem em português
+mee-005;005;Energia Psíquica;ja_existe_local;"pt\me\mee\005\high.webp; pt\me\mee\005\low.webp";API não informa imagem em português
+mee-006;006;Energia de Luta;ja_existe_local;"pt\me\mee\006\high.webp; pt\me\mee\006\low.webp";API não informa imagem em português
+mee-007;007;Energia de Escuridão;ja_existe_local;"pt\me\mee\007\high.webp; pt\me\mee\007\low.webp";API não informa imagem em português
+mee-008;008;Energia de Metal;ja_existe_local;"pt\me\mee\008\high.webp; pt\me\mee\008\low.webp";API não informa imagem em português

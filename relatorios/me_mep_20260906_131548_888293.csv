@@ -1,0 +1,89 @@
+﻿id;numero;nome;status;arquivos_locais;detalhe
+mep-001;001;Meganium;ja_existe_local;"pt\me\mep\001\high.webp; pt\me\mep\001\low.webp";API não informa imagem em português
+mep-002;002;Inteleon;ja_existe_local;"pt\me\mep\002\high.webp; pt\me\mep\002\low.webp";API não informa imagem em português
+mep-003;003;Alakazam;ja_existe_local;"pt\me\mep\003\high.webp; pt\me\mep\003\low.webp";API não informa imagem em português
+mep-004;004;Lunatone;ja_existe_local;"pt\me\mep\004\high.webp; pt\me\mep\004\low.webp";API não informa imagem em português
+mep-005;005;Drifloon;ja_existe_local;"pt\me\mep\005\high.webp; pt\me\mep\005\low.webp";API não informa imagem em português
+mep-006;006;Drifblim;ja_existe_local;"pt\me\mep\006\high.webp; pt\me\mep\006\low.webp";API não informa imagem em português
+mep-007;007;Psyduck;ja_existe_local;"pt\me\mep\007\high.webp; pt\me\mep\007\low.webp";API não informa imagem em português
+mep-008;008;Golduck;ja_existe_local;"pt\me\mep\008\high.webp; pt\me\mep\008\low.webp";API não informa imagem em português
+mep-009;009;Alakazam;ja_existe_local;"pt\me\mep\009\high.webp; pt\me\mep\009\low.webp";API não informa imagem em português
+mep-010;010;Riolu;ja_existe_local;"pt\me\mep\010\high.webp; pt\me\mep\010\low.webp";API não informa imagem em português
+mep-011;011;Mega Latias ex;ja_existe_local;"pt\me\mep\011\high.webp; pt\me\mep\011\low.webp";API não informa imagem em português
+mep-012;012;Mega Lucario ex;ja_existe_local;"pt\me\mep\012\high.webp; pt\me\mep\012\low.webp";API não informa imagem em português
+mep-013;013;Mega Venusaur ex;ja_existe_local;"pt\me\mep\013\high.webp; pt\me\mep\013\low.webp";API não informa imagem em português
+mep-014;014;Ceruledge;ja_existe_local;"pt\me\mep\014\high.webp; pt\me\mep\014\low.webp";API não informa imagem em português
+mep-015;015;Zacian;ja_existe_local;"pt\me\mep\015\high.webp; pt\me\mep\015\low.webp";API não informa imagem em português
+mep-016;016;Flygon;ja_existe_local;"pt\me\mep\016\high.webp; pt\me\mep\016\low.webp";API não informa imagem em português
+mep-017;017;Toxtricity;ja_existe_local;"pt\me\mep\017\high.webp; pt\me\mep\017\low.webp";API não informa imagem em português
+mep-018;018;Cottonee;ja_existe_local;"pt\me\mep\018\high.webp; pt\me\mep\018\low.webp";API não informa imagem em português
+mep-019;019;Whimsicott;ja_existe_local;"pt\me\mep\019\high.webp; pt\me\mep\019\low.webp";API não informa imagem em português
+mep-020;020;Sneasel;ja_existe_local;"pt\me\mep\020\high.webp; pt\me\mep\020\low.webp";API não informa imagem em português
+mep-021;021;Weavile;ja_existe_local;"pt\me\mep\021\high.webp; pt\me\mep\021\low.webp";API não informa imagem em português
+mep-022;022;Charcadet;ja_existe_local;"pt\me\mep\022\high.webp; pt\me\mep\022\low.webp";API não informa imagem em português
+mep-023;023;Mega Charizard X ex;ja_existe_local;"pt\me\mep\023\high.webp; pt\me\mep\023\low.webp";API não informa imagem em português
+mep-024;024;Oricorio ex;ja_existe_local;"pt\me\mep\024\high.webp; pt\me\mep\024\low.webp";API não informa imagem em português
+mep-025;025;Mega Kangaskhan ex;ja_existe_local;"pt\me\mep\025\high.webp; pt\me\mep\025\low.webp";API não informa imagem em português
+mep-026;026;Meloetta;ja_existe_local;"pt\me\mep\026\high.webp; pt\me\mep\026\low.webp";API não informa imagem em português
+mep-027;027;Haunter;ja_existe_local;"pt\me\mep\027\high.webp; pt\me\mep\027\low.webp";API não informa imagem em português
+mep-028;028;Fanfarra de Celebração;ja_existe_local;"pt\me\mep\028\high.webp; pt\me\mep\028\low.webp";API não informa imagem em português
+mep-029;029;Mega Charizard X ex;ja_existe_local;"pt\me\mep\029\high.webp; pt\me\mep\029\low.webp";API não informa imagem em português
+mep-030;030;Mega Charizard Y ex;ja_existe_local;"pt\me\mep\030\high.webp; pt\me\mep\030\low.webp";API não informa imagem em português
+mep-031;031;Zekrom do N;ja_existe_local;"pt\me\mep\031\high.webp; pt\me\mep\031\low.webp";API não informa imagem em português
+mep-032;032;Mega Gardevoir ex;ja_existe_local;"pt\me\mep\032\high.webp; pt\me\mep\032\low.webp";API não informa imagem em português
+mep-033;033;Mega Lucario ex;ja_existe_local;"pt\me\mep\033\high.webp; pt\me\mep\033\low.webp";API não informa imagem em português
+mep-034;034;Mega Meganium ex;ja_existe_local;"pt\me\mep\034\high.webp; pt\me\mep\034\low.webp";API não informa imagem em português
+mep-035;035;Mega Emboar ex;ja_existe_local;"pt\me\mep\035\high.webp; pt\me\mep\035\low.webp";API não informa imagem em português
+mep-036;036;Mega Feraligatr ex;ja_existe_local;"pt\me\mep\036\high.webp; pt\me\mep\036\low.webp";API não informa imagem em português
+mep-037;037;Bulbasaur;ja_existe_local;"pt\me\mep\037\high.webp; pt\me\mep\037\low.webp";API não informa imagem em português
+mep-038;038;Charmander;ja_existe_local;"pt\me\mep\038\high.webp; pt\me\mep\038\low.webp";API não informa imagem em português
+mep-039;039;Squirtle;ja_existe_local;"pt\me\mep\039\high.webp; pt\me\mep\039\low.webp";API não informa imagem em português
+mep-040;040;Turtwig;ja_existe_local;"pt\me\mep\040\high.webp; pt\me\mep\040\low.webp";API não informa imagem em português
+mep-041;041;Chimchar;ja_existe_local;"pt\me\mep\041\high.webp; pt\me\mep\041\low.webp";API não informa imagem em português
+mep-042;042;Piplup;ja_existe_local;"pt\me\mep\042\high.webp; pt\me\mep\042\low.webp";API não informa imagem em português
+mep-043;043;Rowlet;ja_existe_local;"pt\me\mep\043\high.webp; pt\me\mep\043\low.webp";API não informa imagem em português
+mep-044;044;Litten;ja_existe_local;"pt\me\mep\044\high.webp; pt\me\mep\044\low.webp";API não informa imagem em português
+mep-045;045;Popplio;ja_existe_local;"pt\me\mep\045\high.webp; pt\me\mep\045\low.webp";API não informa imagem em português
+mep-046;046;Chikorita;ja_existe_local;"pt\me\mep\046\high.webp; pt\me\mep\046\low.webp";API não informa imagem em português
+mep-047;047;Cyndaquil;ja_existe_local;"pt\me\mep\047\high.webp; pt\me\mep\047\low.webp";API não informa imagem em português
+mep-048;048;Totodile;ja_existe_local;"pt\me\mep\048\high.webp; pt\me\mep\048\low.webp";API não informa imagem em português
+mep-049;049;Snivy;ja_existe_local;"pt\me\mep\049\high.webp; pt\me\mep\049\low.webp";API não informa imagem em português
+mep-050;050;Tepig;ja_existe_local;"pt\me\mep\050\high.webp; pt\me\mep\050\low.webp";API não informa imagem em português
+mep-051;051;Oshawott;ja_existe_local;"pt\me\mep\051\high.webp; pt\me\mep\051\low.webp";API não informa imagem em português
+mep-052;052;Grookey;ja_existe_local;"pt\me\mep\052\high.webp; pt\me\mep\052\low.webp";API não informa imagem em português
+mep-053;053;Scorbunny;ja_existe_local;"pt\me\mep\053\high.webp; pt\me\mep\053\low.webp";API não informa imagem em português
+mep-054;054;Sobble;ja_existe_local;"pt\me\mep\054\high.webp; pt\me\mep\054\low.webp";API não informa imagem em português
+mep-055;055;Treecko;falta_nos_dois;;API não informa imagem em português
+mep-056;056;Torchic;falta_nos_dois;;API não informa imagem em português
+mep-057;057;Mudkip;falta_nos_dois;;API não informa imagem em português
+mep-058;058;Chespin;falta_nos_dois;;API não informa imagem em português
+mep-059;059;Fennekin;falta_nos_dois;;API não informa imagem em português
+mep-060;060;Froakie;falta_nos_dois;;API não informa imagem em português
+mep-061;061;Sprigatito;falta_nos_dois;;API não informa imagem em português
+mep-062;062;Fuecoco;falta_nos_dois;;API não informa imagem em português
+mep-063;063;Quaxly;falta_nos_dois;;API não informa imagem em português
+mep-064;064;Serperior;ja_existe_local;"pt\me\mep\064\high.webp; pt\me\mep\064\low.webp";API não informa imagem em português
+mep-065;065;Barbaracle;ja_existe_local;"pt\me\mep\065\high.webp; pt\me\mep\065\low.webp";API não informa imagem em português
+mep-066;066;Tyrantrum;ja_existe_local;"pt\me\mep\066\high.webp; pt\me\mep\066\low.webp";API não informa imagem em português
+mep-067;067;Doublade;ja_existe_local;"pt\me\mep\067\high.webp; pt\me\mep\067\low.webp";API não informa imagem em português
+mep-068;068;Makuhita;ja_existe_local;"pt\me\mep\068\high.webp; pt\me\mep\068\low.webp";API não informa imagem em português
+mep-069;069;Chikorita;ja_existe_local;"pt\me\mep\069\high.webp; pt\me\mep\069\low.webp";API não informa imagem em português
+mep-070;070;Tyrunt;ja_existe_local;"pt\me\mep\070\high.webp; pt\me\mep\070\low.webp";API não informa imagem em português
+mep-071;071;Mega Zygarde ex;ja_existe_local;"pt\me\mep\071\high.webp; pt\me\mep\071\low.webp";API não informa imagem em português
+mep-072;072;Mega Clefable ex;ja_existe_local;"pt\me\mep\072\high.webp; pt\me\mep\072\low.webp";API não informa imagem em português
+mep-073;073;Mega Gengar ex;ja_existe_local;"pt\me\mep\073\high.webp; pt\me\mep\073\low.webp";API não informa imagem em português
+mep-074;074;Delphox;ja_existe_local;"pt\me\mep\074\high.webp; pt\me\mep\074\low.webp";API não informa imagem em português
+mep-075;075;Ampharos;ja_existe_local;"pt\me\mep\075\high.webp; pt\me\mep\075\low.webp";API não informa imagem em português
+mep-076;076;Crobat;ja_existe_local;"pt\me\mep\076\high.webp; pt\me\mep\076\low.webp";API não informa imagem em português
+mep-077;077;Goodra;ja_existe_local;"pt\me\mep\077\high.webp; pt\me\mep\077\low.webp";API não informa imagem em português
+mep-078;078;Toxel;ja_existe_local;"pt\me\mep\078\high.webp; pt\me\mep\078\low.webp";API não informa imagem em português
+mep-079;079;Charmeleon;ja_existe_local;"pt\me\mep\079\high.webp; pt\me\mep\079\low.webp";API não informa imagem em português
+mep-080;080;Fennekin;ja_existe_local;"pt\me\mep\080\high.webp; pt\me\mep\080\low.webp";API não informa imagem em português
+mep-081;081;Mega Greninja ex;ja_existe_local;"pt\me\mep\081\high.webp; pt\me\mep\081\low.webp";API não informa imagem em português
+mep-082;082;Miraidon;ja_existe_local;"pt\me\mep\082\high.webp; pt\me\mep\082\low.webp";API não informa imagem em português
+mep-083;083;Slowbro;ja_existe_local;"pt\me\mep\083\high.webp; pt\me\mep\083\low.webp";API não informa imagem em português
+mep-084;084;Dhelmise;ja_existe_local;"pt\me\mep\084\high.webp; pt\me\mep\084\low.webp";API não informa imagem em português
+mep-085;085;Bastiodon;ja_existe_local;"pt\me\mep\085\high.webp; pt\me\mep\085\low.webp";API não informa imagem em português
+mep-086;086;Slowpoke;ja_existe_local;"pt\me\mep\086\high.webp; pt\me\mep\086\low.webp";API não informa imagem em português
+mep-087;087;Binacle;ja_existe_local;"pt\me\mep\087\high.webp; pt\me\mep\087\low.webp";API não informa imagem em português
+mep-088;088;Zarude;ja_existe_local;"pt\me\mep\088\high.webp; pt\me\mep\088\low.webp";API não informa imagem em português
