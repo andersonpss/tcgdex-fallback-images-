@@ -123,7 +123,7 @@ def planejar(cliente):
 
 
 def baixar(cliente, linhas, linhas_base=None, serie='swsh'):
-    if serie not in ('swsh', 'sm'):
+    if serie not in ('swsh', 'sm', 'xy'):
         raise ValueError('Série não suportada.')
     anteriores = {}
     if (WORK / 'resultado.csv').exists():

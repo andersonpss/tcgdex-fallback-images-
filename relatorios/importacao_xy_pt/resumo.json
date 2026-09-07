@@ -1,0 +1,76 @@
+{
+  "total": 1932,
+  "completas": 1925,
+  "pendentes": 7,
+  "por_set": {
+    "xyp": {
+      "total": 216,
+      "completas": 209,
+      "pendentes": 7
+    },
+    "xy0": {
+      "total": 39,
+      "completas": 39
+    },
+    "xya": {
+      "total": 6,
+      "completas": 6
+    },
+    "xy1": {
+      "total": 146,
+      "completas": 146
+    },
+    "xy2": {
+      "total": 110,
+      "completas": 110
+    },
+    "xy3": {
+      "total": 114,
+      "completas": 114
+    },
+    "xy4": {
+      "total": 124,
+      "completas": 124
+    },
+    "xy5": {
+      "total": 164,
+      "completas": 164
+    },
+    "dc1": {
+      "total": 34,
+      "completas": 34
+    },
+    "xy6": {
+      "total": 112,
+      "completas": 112
+    },
+    "xy7": {
+      "total": 101,
+      "completas": 101
+    },
+    "xy8": {
+      "total": 165,
+      "completas": 165
+    },
+    "xy9": {
+      "total": 126,
+      "completas": 126
+    },
+    "g1": {
+      "total": 117,
+      "completas": 117
+    },
+    "xy10": {
+      "total": 129,
+      "completas": 129
+    },
+    "xy11": {
+      "total": 116,
+      "completas": 116
+    },
+    "xy12": {
+      "total": 113,
+      "completas": 113
+    }
+  }
+}
