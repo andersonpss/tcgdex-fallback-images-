@@ -9,16 +9,17 @@ from PIL import Image
 import preencher_espada_escudo as importador
 
 
-def auditar(idioma='pt'):
+def auditar(idioma='pt', serie='swsh', pasta_relatorios=None):
     importador.configurar_idioma(idioma)
-    BASE, WORK = importador.BASE, importador.WORK
+    BASE = importador.BASE
+    WORK = pasta_relatorios or importador.WORK
     with (WORK / 'resultado.csv').open(encoding='utf-8-sig', newline='') as arquivo:
         linhas = list(csv.DictReader(arquivo, delimiter=';'))
     resumo = defaultdict(Counter)
     pendentes = []
     def verificar(linha):
         problemas = []
-        pasta = BASE / idioma / 'swsh' / linha['set'] / linha['numero']
+        pasta = BASE / idioma / serie / linha['set'] / linha['numero']
         for qualidade in ('high', 'low'):
             imagem = pasta / f'{qualidade}.webp'
             if not imagem.exists():

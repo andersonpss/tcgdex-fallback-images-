@@ -122,7 +122,9 @@ def planejar(cliente):
     return linhas
 
 
-def baixar(cliente, linhas, linhas_base=None):
+def baixar(cliente, linhas, linhas_base=None, serie='swsh'):
+    if serie not in ('swsh', 'sm'):
+        raise ValueError('Série não suportada.')
     anteriores = {}
     if (WORK / 'resultado.csv').exists():
         with (WORK / 'resultado.csv').open(encoding='utf-8-sig', newline='') as f:
@@ -132,7 +134,7 @@ def baixar(cliente, linhas, linhas_base=None):
     def baixar_carta(linha):
         if not hasattr(contexto, 'cliente'):
             contexto.cliente = Cliente()
-        pasta = BASE / IDIOMA / 'swsh' / linha['set'] / linha['numero']
+        pasta = BASE / IDIOMA / serie / linha['set'] / linha['numero']
         pasta.mkdir(parents=True, exist_ok=True)
         faltam = [nome for nome in ('high', 'low') if not (pasta / f'{nome}.webp').exists() or (pasta / f'{nome}.webp').stat().st_size == 0]
         if not faltam:

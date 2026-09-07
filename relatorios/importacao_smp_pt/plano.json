@@ -1,0 +1,2261 @@
+[
+  {
+    "set": "smp",
+    "id": "smp-SM01",
+    "numero": "SM01",
+    "nome": "Rowlet",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_001_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/1",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM02",
+    "numero": "SM02",
+    "nome": "Litten",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_002_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/2",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM03",
+    "numero": "SM03",
+    "nome": "Popplio",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_003_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/3",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM05",
+    "numero": "SM05",
+    "nome": "Snorlax GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_005_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/5",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM06",
+    "numero": "SM06",
+    "nome": "Rockruff",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_006_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/6",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM07",
+    "numero": "SM07",
+    "nome": "Pikipek",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_007_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/7",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM08",
+    "numero": "SM08",
+    "nome": "Litten",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_008_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/8",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM09",
+    "numero": "SM09",
+    "nome": "Togedemaru",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_009_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/9",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM10",
+    "numero": "SM10",
+    "nome": "Shiinotic",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_010_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/10",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM100",
+    "numero": "SM100",
+    "nome": "Lucario GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_100_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/100",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM101",
+    "numero": "SM101",
+    "nome": "Necrozma Asas Alvorada GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_101_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/101",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM102",
+    "numero": "SM102",
+    "nome": "Necrozma Juba Crepúsculo GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_102_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/102",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM103",
+    "numero": "SM103",
+    "nome": "Lunala GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_103_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/103",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM104",
+    "numero": "SM104",
+    "nome": "Solgaleo GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_104_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/104",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM105",
+    "numero": "SM105",
+    "nome": "Lycanroc",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_105_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/105",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM106",
+    "numero": "SM106",
+    "nome": "Necrozma Asas Alvorada",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_106_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/106",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM107",
+    "numero": "SM107",
+    "nome": "Necrozma Juba Crepúsculo",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_107_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/107",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM11",
+    "numero": "SM11",
+    "nome": "Bruxish",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_011_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/11",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM115",
+    "numero": "SM115",
+    "nome": "Pheromosa",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_115_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/115",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM116",
+    "numero": "SM116",
+    "nome": "Xurkitree",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_116_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/116",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM117",
+    "numero": "SM117",
+    "nome": "Malamar",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_117_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/117",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM118",
+    "numero": "SM118",
+    "nome": "Lycanroc",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_118_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/118",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM119",
+    "numero": "SM119",
+    "nome": "Exeggcute",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_119_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/119",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM12",
+    "numero": "SM12",
+    "nome": "Passimian",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_012_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/12",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM120",
+    "numero": "SM120",
+    "nome": "Rockruff",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_120_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/120",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM121",
+    "numero": "SM121",
+    "nome": "Raikou GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_121_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/121",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM122",
+    "numero": "SM122",
+    "nome": "Zygarde GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_122_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/122",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM123",
+    "numero": "SM123",
+    "nome": "Necrozma Asas Alvorada",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_123_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/123",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM124",
+    "numero": "SM124",
+    "nome": "Necrozma Juba Crepúsculo",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_124_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/124",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM125",
+    "numero": "SM125",
+    "nome": "Naganadel GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_125_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/125",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM126",
+    "numero": "SM126",
+    "nome": "Ultra Necrozma GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_126_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/126",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM127",
+    "numero": "SM127",
+    "nome": "Sandslash de Alola",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_127_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/127",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM128",
+    "numero": "SM128",
+    "nome": "Ninetales de Alola",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_128_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/128",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM129",
+    "numero": "SM129",
+    "nome": "Kyogre",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_129_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/129",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM13",
+    "numero": "SM13",
+    "nome": "Oranguru",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_013_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/13",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM130",
+    "numero": "SM130",
+    "nome": "Manectric",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_130_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/130",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM131",
+    "numero": "SM131",
+    "nome": "Celesteela",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_131_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/131",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM132",
+    "numero": "SM132",
+    "nome": "Delcatty",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_132_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/132",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM133",
+    "numero": "SM133",
+    "nome": "Thundurus GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_133_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/133",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM134",
+    "numero": "SM134",
+    "nome": "Tornadus GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_134_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/134",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM135",
+    "numero": "SM135",
+    "nome": "Latias",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_135_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/135",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM136",
+    "numero": "SM136",
+    "nome": "Latios",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_136_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/136",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM137",
+    "numero": "SM137",
+    "nome": "Reshiram GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_137_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/137",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM138",
+    "numero": "SM138",
+    "nome": "Zekrom GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_138_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/138",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM139",
+    "numero": "SM139",
+    "nome": "Salamence GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_139_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/139",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM14",
+    "numero": "SM14",
+    "nome": "Lycanroc GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_014_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/14",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM140",
+    "numero": "SM140",
+    "nome": "Salamence",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_140_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/140",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM141",
+    "numero": "SM141",
+    "nome": "Kyurem Branco GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_141_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/141",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM142",
+    "numero": "SM142",
+    "nome": "Kyurem",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_142_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/142",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM143",
+    "numero": "SM143",
+    "nome": "Moltres",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_143_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/143",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM144",
+    "numero": "SM144",
+    "nome": "Articuno",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_144_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/144",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM145",
+    "numero": "SM145",
+    "nome": "Zapdos",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_145_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/145",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM146",
+    "numero": "SM146",
+    "nome": "Leafeon GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_146_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/146",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM147",
+    "numero": "SM147",
+    "nome": "Glaceon GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_147_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/147",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM148",
+    "numero": "SM148",
+    "nome": "Festival dos Campeões",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_148_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/148",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM149",
+    "numero": "SM149",
+    "nome": "Suicune",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_149_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/149",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM15",
+    "numero": "SM15",
+    "nome": "Zygarde",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_015_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/15",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM150",
+    "numero": "SM150",
+    "nome": "Raikou",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_150_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/150",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM151",
+    "numero": "SM151",
+    "nome": "Giratina",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_151_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/151",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM152",
+    "numero": "SM152",
+    "nome": "Tapu Lele",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_152_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/152",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM153",
+    "numero": "SM153",
+    "nome": "Rowlet",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_153_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/153",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM154",
+    "numero": "SM154",
+    "nome": "Salandit",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_154_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/154",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM155",
+    "numero": "SM155",
+    "nome": "Kingdra GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_155_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/155",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM156",
+    "numero": "SM156",
+    "nome": "Dragonite GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_156_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/156",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM157",
+    "numero": "SM157",
+    "nome": "Pikachu",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_157_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/157",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM158",
+    "numero": "SM158",
+    "nome": "Charizard",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_158_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/158",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM159",
+    "numero": "SM159",
+    "nome": "Zapdos",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_159_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/159",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM16",
+    "numero": "SM16",
+    "nome": "Solgaleo GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_016_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/16",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM160",
+    "numero": "SM160",
+    "nome": "Nidoqueen",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_160_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/160",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM161",
+    "numero": "SM161",
+    "nome": "Jirachi",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_161_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/161",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM162",
+    "numero": "SM162",
+    "nome": "Pikachu",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_162_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/162",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM163",
+    "numero": "SM163",
+    "nome": "Mimikyu",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_163_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/163",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM164",
+    "numero": "SM164",
+    "nome": "Deoxys",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_164_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/164",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM165",
+    "numero": "SM165",
+    "nome": "Ultra Necrozma",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_165_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/165",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM166",
+    "numero": "SM166",
+    "nome": "Magikarp e Wailord GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_166_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/166",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM167",
+    "numero": "SM167",
+    "nome": "Celebi e Venusaur GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_167_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/167",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM168",
+    "numero": "SM168",
+    "nome": "Pikachu e Zekrom GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_168_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/168",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM169",
+    "numero": "SM169",
+    "nome": "Eevee e Snorlax GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_169_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/169",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM17",
+    "numero": "SM17",
+    "nome": "Lunala GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_017_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/17",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM170",
+    "numero": "SM170",
+    "nome": "Detective Pikachu",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_170_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/170",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM171",
+    "numero": "SM171",
+    "nome": "Flareon GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_171_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/171",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM172",
+    "numero": "SM172",
+    "nome": "Vaporeon GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_172_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/172",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM173",
+    "numero": "SM173",
+    "nome": "Jolteon GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_173_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/173",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM174",
+    "numero": "SM174",
+    "nome": "Eevee GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_174_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/174",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM175",
+    "numero": "SM175",
+    "nome": "Eevee GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_175_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/175",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM176",
+    "numero": "SM176",
+    "nome": "Eevee GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_176_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/176",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM177",
+    "numero": "SM177",
+    "nome": "Meltan",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_177_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/177",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM178",
+    "numero": "SM178",
+    "nome": "Melmetal GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_178_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/178",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM179",
+    "numero": "SM179",
+    "nome": "Volcanion",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_179_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/179",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM18",
+    "numero": "SM18",
+    "nome": "Sandslash de Alola",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_018_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/18",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM180",
+    "numero": "SM180",
+    "nome": "Stakataka",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_180_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/180",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM181",
+    "numero": "SM181",
+    "nome": "Melmetal",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_181_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/181",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM182",
+    "numero": "SM182",
+    "nome": "Persian",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_182_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/182",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM183",
+    "numero": "SM183",
+    "nome": "Pikachu",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_183_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/183",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM184",
+    "numero": "SM184",
+    "nome": "Eevee",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_184_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/184",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM185",
+    "numero": "SM185",
+    "nome": "Typhlosion",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_185_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/185",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM186",
+    "numero": "SM186",
+    "nome": "Flareon",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_186_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/186",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM187",
+    "numero": "SM187",
+    "nome": "Marowak de Alola GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_187_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/187",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM188",
+    "numero": "SM188",
+    "nome": "Kangaskhan GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_188_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/188",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM189",
+    "numero": "SM189",
+    "nome": "Blastoise GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_189_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/189",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM19",
+    "numero": "SM19",
+    "nome": "Oricorio",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_019_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/19",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM190",
+    "numero": "SM190",
+    "nome": "Detective Pikachu",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_190_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/190",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM191",
+    "numero": "SM191",
+    "nome": "Mewtwo e Mew GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_191_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/191",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM192",
+    "numero": "SM192",
+    "nome": "Lucario e Melmetal GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_192_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/192",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM193",
+    "numero": "SM193",
+    "nome": "Garchomp e Giratina GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_193_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/193",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM194",
+    "numero": "SM194",
+    "nome": "Detective Pikachu",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_194_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/194",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM195",
+    "numero": "SM195",
+    "nome": "Charizard GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_195_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/195",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM196",
+    "numero": "SM196",
+    "nome": "Mewtwo GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_196_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/196",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM197",
+    "numero": "SM197",
+    "nome": "Greninja GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_197_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/197",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM198",
+    "numero": "SM198",
+    "nome": "Bulbasaur",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_198_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/198",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM199",
+    "numero": "SM199",
+    "nome": "Psyduck",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_199_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/199",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM20",
+    "numero": "SM20",
+    "nome": "Mudsdale",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_020_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/20",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM200",
+    "numero": "SM200",
+    "nome": "Snubbull",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_200_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/200",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM201",
+    "numero": "SM201",
+    "nome": "Reshiram e Charizard GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_201_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/201",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM202",
+    "numero": "SM202",
+    "nome": "Amoonguss",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_202_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/202",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM203",
+    "numero": "SM203",
+    "nome": "Tapu Fini",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_203_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/203",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM204",
+    "numero": "SM204",
+    "nome": "Necrozma",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_204_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/204",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM205",
+    "numero": "SM205",
+    "nome": "Terrakion",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_205_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/205",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM206",
+    "numero": "SM206",
+    "nome": "Pikachu",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_206_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/206",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM207",
+    "numero": "SM207",
+    "nome": "Sudowoodo",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_207_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/207",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM208",
+    "numero": "SM208",
+    "nome": "Vikavolt",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_208_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/208",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM209",
+    "numero": "SM209",
+    "nome": "Stakataka",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_209_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/209",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM21",
+    "numero": "SM21",
+    "nome": "Drampa",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_021_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/21",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM210",
+    "numero": "SM210",
+    "nome": "Moltres, Zapdos e Articuno GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_210_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/210",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM211",
+    "numero": "SM211",
+    "nome": "Charizard GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_211_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/211",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM212",
+    "numero": "SM212",
+    "nome": "Gyarados GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_212_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/212",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM213",
+    "numero": "SM213",
+    "nome": "Raichu GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_213_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/213",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM214",
+    "numero": "SM214",
+    "nome": "Mewtwo",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_214_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/214",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM215",
+    "numero": "SM215",
+    "nome": "Mew",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_215_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/215",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM216",
+    "numero": "SM216",
+    "nome": "Porygon-Z GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_216_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/216",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM217",
+    "numero": "SM217",
+    "nome": "Trevenant e Dusknoir GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_217_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/217",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM218",
+    "numero": "SM218",
+    "nome": "Buzzwole",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_218_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/218",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM219",
+    "numero": "SM219",
+    "nome": "Entei",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_219_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/219",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM22",
+    "numero": "SM22",
+    "nome": "Rowlet",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_022_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/22",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM220",
+    "numero": "SM220",
+    "nome": "Phione",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_220_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/220",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM221",
+    "numero": "SM221",
+    "nome": "Blacephalon",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_221_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/221",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM222",
+    "numero": "SM222",
+    "nome": "Mismagius",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_222_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/222",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM223",
+    "numero": "SM223",
+    "nome": "Terrakion",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_223_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/223",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM224",
+    "numero": "SM224",
+    "nome": "Celebi",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_224_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/224",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM225",
+    "numero": "SM225",
+    "nome": "Victini",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_225_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/225",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM226",
+    "numero": "SM226",
+    "nome": "Charizard",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_226_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/226",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM227",
+    "numero": "SM227",
+    "nome": "Pikachu",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_227_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/227",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM228",
+    "numero": "SM228",
+    "nome": "Armored Mewtwo",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_228_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/228",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM229",
+    "numero": "SM229",
+    "nome": "Venusaur e Snivy GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_229_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/229",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM23",
+    "numero": "SM23",
+    "nome": "Litten",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_023_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/23",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM230",
+    "numero": "SM230",
+    "nome": "Charizard e Braixen GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_230_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/230",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM231",
+    "numero": "SM231",
+    "nome": "Festival dos Campeões",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_231_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/231",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM232",
+    "numero": "SM232",
+    "nome": "Pikachu GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_232_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/232",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM233",
+    "numero": "SM233",
+    "nome": "Eevee GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_233_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/233",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM234",
+    "numero": "SM234",
+    "nome": "Pikachu",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_234_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/234",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM235",
+    "numero": "SM235",
+    "nome": "Eevee",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_235_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/235",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM236",
+    "numero": "SM236",
+    "nome": "Sandslash de Alola GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_236_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/236",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM237",
+    "numero": "SM237",
+    "nome": "Leafeon",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_237_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/237",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM238",
+    "numero": "SM238",
+    "nome": "Glaceon",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_238_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/238",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM239",
+    "numero": "SM239",
+    "nome": "Carracosta GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_239_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/239",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM24",
+    "numero": "SM24",
+    "nome": "Popplio",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_024_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/24",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM240",
+    "numero": "SM240",
+    "nome": "Espeon e Deoxys GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_240_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/240",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM241",
+    "numero": "SM241",
+    "nome": "Umbreon e Darkrai GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_241_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/241",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM242",
+    "numero": "SM242",
+    "nome": "Eevee GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_242_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/242",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM243",
+    "numero": "SM243",
+    "nome": "Regigigas",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_243_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/243",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM244",
+    "numero": "SM244",
+    "nome": "Aipom",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_244_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/244",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM245",
+    "numero": "SM245",
+    "nome": "Mismagius",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_245_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/245",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM246",
+    "numero": "SM246",
+    "nome": "Sabrina e Brycen",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_246_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/246",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM247",
+    "numero": "SM247",
+    "nome": "Reshiram e Charizard GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_247_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/247",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM248",
+    "numero": "SM248",
+    "nome": "Pikachu e Zekrom GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_248_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/248",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM25",
+    "numero": "SM25",
+    "nome": "Lurantis",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_025_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/25",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM26",
+    "numero": "SM26",
+    "nome": "Tsareena",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_026_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/26",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM27",
+    "numero": "SM27",
+    "nome": "Turtonator",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_027_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/27",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM28",
+    "numero": "SM28",
+    "nome": "Vikavolt",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_028_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/28",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM29",
+    "numero": "SM29",
+    "nome": "Mimikyu",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_029_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/29",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM30",
+    "numero": "SM30",
+    "nome": "Tapu Koko",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_030_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/30",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM31",
+    "numero": "SM31",
+    "nome": "Tapu Koko",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_031_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/31",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM32",
+    "numero": "SM32",
+    "nome": "Tapu Bulu GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_032_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/32",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM33",
+    "numero": "SM33",
+    "nome": "Tapu Koko GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_033_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/33",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM34",
+    "numero": "SM34",
+    "nome": "Bewear GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_034_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/34",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM35",
+    "numero": "SM35",
+    "nome": "Espeon GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_035_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/35",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM36",
+    "numero": "SM36",
+    "nome": "Umbreon GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_036_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/36",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM37",
+    "numero": "SM37",
+    "nome": "Decidueye GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_037_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/37",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM38",
+    "numero": "SM38",
+    "nome": "Incineroar GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_038_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/38",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM39",
+    "numero": "SM39",
+    "nome": "Primarina GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_039_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/39",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM40",
+    "numero": "SM40",
+    "nome": "Jangmo-o",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_040_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/40",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM41",
+    "numero": "SM41",
+    "nome": "Komala",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_041_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/41",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM42",
+    "numero": "SM42",
+    "nome": "Cosmog",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_042_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/42",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM43",
+    "numero": "SM43",
+    "nome": "Meowth de Alola",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_043_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/43",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM44",
+    "numero": "SM44",
+    "nome": "Togedemaru",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_044_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/44",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM45",
+    "numero": "SM45",
+    "nome": "Tapu Lele",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_045_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/45",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM46",
+    "numero": "SM46",
+    "nome": "Seviper",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_046_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/46",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM47",
+    "numero": "SM47",
+    "nome": "Crabominable",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_047_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/47",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM48",
+    "numero": "SM48",
+    "nome": "Zygarde",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_048_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/48",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM49",
+    "numero": "SM49",
+    "nome": "Bewear",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_049_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/49",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM50",
+    "numero": "SM50",
+    "nome": "Tapu Koko GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_050_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/50",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM51",
+    "numero": "SM51",
+    "nome": "Meowth de Alola",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_051_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/51",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM52",
+    "numero": "SM52",
+    "nome": "Golisopod",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_052_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/52",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM53",
+    "numero": "SM53",
+    "nome": "Dhelmise",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_053_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/53",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM54",
+    "numero": "SM54",
+    "nome": "Lucario",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_054_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/54",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM55",
+    "numero": "SM55",
+    "nome": "Decidueye",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_055_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/55",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM56",
+    "numero": "SM56",
+    "nome": "Tsareena GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_056_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/56",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM57",
+    "numero": "SM57",
+    "nome": "Ho-Oh GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_057_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/57",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM58",
+    "numero": "SM58",
+    "nome": "Necrozma GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_058_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/58",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM59",
+    "numero": "SM59",
+    "nome": "Marshadow GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_059_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/59",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM60",
+    "numero": "SM60",
+    "nome": "Charizard GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_060_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/60",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM61",
+    "numero": "SM61",
+    "nome": "Tapu Bulu",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_061_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/61",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM62",
+    "numero": "SM62",
+    "nome": "Golisopod GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_062_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/62",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM63",
+    "numero": "SM63",
+    "nome": "Salazzle GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_063_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/63",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM64",
+    "numero": "SM64",
+    "nome": "Silvally",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_064_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/64",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM65",
+    "numero": "SM65",
+    "nome": "Raichu de Alola",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_065_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/65",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM66",
+    "numero": "SM66",
+    "nome": "Pheromosa GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_066_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/66",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM67",
+    "numero": "SM67",
+    "nome": "Celesteela GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_067_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/67",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM68",
+    "numero": "SM68",
+    "nome": "Xurkitree GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_068_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/68",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM69",
+    "numero": "SM69",
+    "nome": "Buzzwole GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_069_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/69",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM70",
+    "numero": "SM70",
+    "nome": "Ho-Oh Luminescente",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_070_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/70",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM71",
+    "numero": "SM71",
+    "nome": "Kommo-o GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_071_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/71",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM72",
+    "numero": "SM72",
+    "nome": "Raichu de Alola",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_072_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/72",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM73",
+    "numero": "SM73",
+    "nome": "Salazzle",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_073_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/73",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM74",
+    "numero": "SM74",
+    "nome": "Regirock",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_074_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/74",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM75",
+    "numero": "SM75",
+    "nome": "Registeel",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_075_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/75",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM76",
+    "numero": "SM76",
+    "nome": "Pikachu",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_076_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/76",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM77",
+    "numero": "SM77",
+    "nome": "Mewtwo",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_077_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/77",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM78",
+    "numero": "SM78",
+    "nome": "Festival dos Campeões",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_078_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/78",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM79",
+    "numero": "SM79",
+    "nome": "Celebi Luminescente",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_079_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/79",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM80",
+    "numero": "SM80",
+    "nome": "Ho-Oh GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_080_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/80",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM81",
+    "numero": "SM81",
+    "nome": "Pikachu",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_081_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/81",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM82",
+    "numero": "SM82",
+    "nome": "Lugia Luminescente",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_082_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/82",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM83",
+    "numero": "SM83",
+    "nome": "Zorua",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_083_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/83",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM84",
+    "numero": "SM84",
+    "nome": "Zoroark GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_084_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/84",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM85",
+    "numero": "SM85",
+    "nome": "Marshadow",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_085_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/85",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM86",
+    "numero": "SM86",
+    "nome": "Pikachu",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_086_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/86",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM87",
+    "numero": "SM87",
+    "nome": "Latias",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_087_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/87",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM88",
+    "numero": "SM88",
+    "nome": "Latios",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_088_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/88",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM89",
+    "numero": "SM89",
+    "nome": "Zoroark",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_089_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/89",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM90",
+    "numero": "SM90",
+    "nome": "Raichu GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_090_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/90",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM91",
+    "numero": "SM91",
+    "nome": "Silvally GX",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_091_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/91",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM92",
+    "numero": "SM92",
+    "nome": "Tapu Fini",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_092_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/92",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM93",
+    "numero": "SM93",
+    "nome": "Marshadow",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_093_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/93",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM94",
+    "numero": "SM94",
+    "nome": "Rotom Lavagem",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_094_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/94",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM95",
+    "numero": "SM95",
+    "nome": "Lucario",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_095_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/95",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM96",
+    "numero": "SM96",
+    "nome": "Heatran",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_096_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/96",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM97",
+    "numero": "SM97",
+    "nome": "Gumshoos",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_097_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/97",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM98",
+    "numero": "SM98",
+    "nome": "Pikachu",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_098_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/98",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM99",
+    "numero": "SM99",
+    "nome": "Mimikyu",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_099_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/99",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM04",
+    "numero": "SM04",
+    "nome": "Pikachu",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_004_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/4",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM108",
+    "numero": "SM108",
+    "nome": "Ash's Pikachu",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_108_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/108",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM109",
+    "numero": "SM109",
+    "nome": "Ash's Pikachu",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_109_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/109",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM110",
+    "numero": "SM110",
+    "nome": "Ash's Pikachu",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_110_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/110",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM111",
+    "numero": "SM111",
+    "nome": "Ash's Pikachu",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_111_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/111",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM112",
+    "numero": "SM112",
+    "nome": "Ash's Pikachu",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_112_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/112",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM113",
+    "numero": "SM113",
+    "nome": "Ash's Pikachu",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_113_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/113",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM114",
+    "numero": "SM114",
+    "nome": "Ash's Pikachu",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_114_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/114",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM30a",
+    "numero": "SM30a",
+    "nome": "Variante SM30a (código local derivado do Limitless; sem ID TCGdex)",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_030a_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/30a",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM103a",
+    "numero": "SM103a",
+    "nome": "Variante SM103a (código local derivado do Limitless; sem ID TCGdex)",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_103a_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/103a",
+    "status": "planejado"
+  },
+  {
+    "set": "smp",
+    "id": "smp-SM104a",
+    "numero": "SM104a",
+    "nome": "Variante SM104a (código local derivado do Limitless; sem ID TCGdex)",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_104a_R_PT.png",
+    "pagina": "https://limitlesstcg.com/cards/pt/SMP/104a",
+    "status": "planejado"
+  }
+]
