@@ -1,4 +1,4 @@
-"""Importa scans PT do Limitless, mantendo IDs de sets e cartas do TCGdex."""
+"""Importa scans PT/EN do Limitless, mantendo IDs de sets e cartas do TCGdex."""
 import argparse
 import csv
 import io
@@ -16,6 +16,7 @@ from urllib3.util.retry import Retry
 from requests.adapters import HTTPAdapter
 
 BASE = Path(__file__).resolve().parent
+IDIOMA = 'pt'
 WORK = BASE / 'relatorios' / 'importacao_swsh'
 MAPA = {'swshp': 'SP', 'swsh1': 'SSH', 'swsh2': 'RCL', 'swsh3': 'DAA',
         'swsh3.5': 'CPA', 'swsh4': 'VIV', 'swsh4.5': 'SHF', 'swsh4.5sv': 'SHF',
@@ -24,6 +25,14 @@ MAPA = {'swshp': 'SP', 'swsh1': 'SSH', 'swsh2': 'RCL', 'swsh3': 'DAA',
         'swsh10': 'ASR', 'swsh10tg': 'ASR', 'swsh10.5': 'PGO', 'swsh11': 'LOR',
         'swsh11tg': 'LOR', 'swsh12': 'SIT', 'swsh12tg': 'SIT',
         'swsh12.5': 'CRZ', 'swsh12.5gg': 'CRZ'}
+
+
+def configurar_idioma(idioma):
+    global IDIOMA, WORK
+    if idioma not in ('pt', 'en'):
+        raise ValueError('Idioma deve ser pt ou en.')
+    IDIOMA = idioma
+    WORK = BASE / 'relatorios' / ('importacao_swsh' if idioma == 'pt' else 'importacao_swsh_en')
 
 
 class Pagina(HTMLParser):
@@ -37,9 +46,9 @@ class Pagina(HTMLParser):
         a = dict(attrs)
         if tag == 'a':
             self.link = a.get('href', '')
-        if tag == 'img' and re.fullmatch(r'/cards/pt/[^/]+/[^/]+', self.link):
+        if tag == 'img' and re.fullmatch(rf'/cards/{IDIOMA}/[^/]+/[^/]+', self.link):
             src = a.get('src', '')
-            if '_PT_' in src:
+            if f'_{IDIOMA.upper()}_' in src:
                 self.cartas[self.link.rsplit('/', 1)[1]] = {'url': src, 'pagina': 'https://limitlesstcg.com' + self.link, 'nome': a.get('alt', '')}
 
     def handle_endtag(self, tag):
@@ -88,15 +97,15 @@ def energias_basicas():
 
 
 def planejar(cliente):
-    serie = json.loads(cliente.cache('tcgdex_swsh.json', 'https://api.tcgdex.net/v2/pt/series/swsh'))
+    serie = json.loads(cliente.cache('tcgdex_swsh.json', f'https://api.tcgdex.net/v2/{IDIOMA}/series/swsh'))
     linhas = []
     for conjunto in serie['sets']:
         sid = conjunto['id']
-        codigo = MAPA[sid]
-        dados = json.loads(cliente.cache(f'tcgdex_{sid}.json', f'https://api.tcgdex.net/v2/pt/sets/{sid}'))
+        codigo = MAPA.get(sid)
+        dados = json.loads(cliente.cache(f'tcgdex_{sid}.json', f'https://api.tcgdex.net/v2/{IDIOMA}/sets/{sid}'))
         if not dados['cards']:
             dados = json.loads(cliente.cache(f'tcgdex_en_{sid}.json', f'https://api.tcgdex.net/v2/en/sets/{sid}'))
-        pagina = Pagina(cliente.cache(f'limitless_{codigo}.html', f'https://limitlesstcg.com/cards/pt/{codigo}'))
+        pagina = Pagina(cliente.cache(f'limitless_{codigo}.html', f'https://limitlesstcg.com/cards/{IDIOMA}/{codigo}')) if codigo else Pagina('')
         indice = {normalizar(k): v for k, v in pagina.cartas.items()}
         for carta in dados['cards']:
             numero = carta['localId']
@@ -123,7 +132,7 @@ def baixar(cliente, linhas, linhas_base=None):
     def baixar_carta(linha):
         if not hasattr(contexto, 'cliente'):
             contexto.cliente = Cliente()
-        pasta = BASE / 'pt' / 'swsh' / linha['set'] / linha['numero']
+        pasta = BASE / IDIOMA / 'swsh' / linha['set'] / linha['numero']
         pasta.mkdir(parents=True, exist_ok=True)
         faltam = [nome for nome in ('high', 'low') if not (pasta / f'{nome}.webp').exists() or (pasta / f'{nome}.webp').stat().st_size == 0]
         if not faltam:
@@ -139,7 +148,7 @@ def baixar(cliente, linhas, linhas_base=None):
                     if erro.response.status_code not in (403, 404):
                         raise
                     # A página oferece também LG, que pode existir sem o original.
-                    alternativa = linha['url'].replace('_PT.png', '_PT_LG.png')
+                    alternativa = linha['url'].replace(f'_{IDIOMA.upper()}.png', f'_{IDIOMA.upper()}_LG.png')
                     conteudo = contexto.cliente.get(alternativa).content
                     linha['url'] = alternativa
                 with Image.open(io.BytesIO(conteudo)) as imagem:
@@ -176,7 +185,9 @@ def salvar(linhas):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--baixar', action='store_true')
+    parser.add_argument('--idioma', choices=('pt', 'en'), default='pt')
     args = parser.parse_args()
+    configurar_idioma(args.idioma)
     WORK.mkdir(parents=True, exist_ok=True)
     cliente = Cliente()
     linhas = planejar(cliente)

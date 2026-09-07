@@ -1,21 +1,24 @@
 """Valida os WEBP da importação e gera resumo e lista de pendências."""
 import csv
 import json
+import argparse
 from collections import Counter, defaultdict
 from concurrent.futures import ThreadPoolExecutor
 
 from PIL import Image
-from preencher_espada_escudo import BASE, WORK
+import preencher_espada_escudo as importador
 
 
-def auditar():
+def auditar(idioma='pt'):
+    importador.configurar_idioma(idioma)
+    BASE, WORK = importador.BASE, importador.WORK
     with (WORK / 'resultado.csv').open(encoding='utf-8-sig', newline='') as arquivo:
         linhas = list(csv.DictReader(arquivo, delimiter=';'))
     resumo = defaultdict(Counter)
     pendentes = []
     def verificar(linha):
         problemas = []
-        pasta = BASE / 'pt' / 'swsh' / linha['set'] / linha['numero']
+        pasta = BASE / idioma / 'swsh' / linha['set'] / linha['numero']
         for qualidade in ('high', 'low'):
             imagem = pasta / f'{qualidade}.webp'
             if not imagem.exists():
@@ -52,4 +55,6 @@ def auditar():
 
 
 if __name__ == '__main__':
-    auditar()
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--idioma', choices=('pt', 'en'), default='pt')
+    auditar(parser.parse_args().idioma)

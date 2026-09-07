@@ -20,3 +20,12 @@ As situações `sem_correspondencia` e `erro` ficam registradas para revisão. A
 Também são incluídas as 16 energias básicas de Espada e Escudo e Astros Cintilantes que o Limitless lista, mas que não têm ID de carta nos respectivos catálogos do TCGdex. Para elas, os sets continuam sendo `swsh1` e `swsh9`; as pastas das cartas usam os códigos do Limitless `G`, `R`, `W`, `L`, `P`, `F`, `D` e `M`. Esses códigos de carta não são apresentados como IDs oficiais do TCGdex no nome descritivo do relatório.
 
 Depois da importação, `python auditar_importacao_swsh.py` decodifica os arquivos e gera `resumo.json` e `pendencias.csv` na mesma pasta de relatórios.
+
+Para inglês, use:
+
+```powershell
+python preencher_espada_escudo.py --idioma en --baixar
+python auditar_importacao_swsh.py --idioma en
+```
+
+Isso usa exclusivamente o catálogo inglês e imagens `_EN_` de https://limitlesstcg.com/cards/en/, grava em `en/swsh/` e guarda os relatórios em `relatorios/importacao_swsh_en/`. O comportamento padrão continua sendo português. Sets do TCGdex sem correspondência no Limitless, como Futsal 2020 no catálogo consultado, são registrados como pendências, sem inventar URLs de imagens.
