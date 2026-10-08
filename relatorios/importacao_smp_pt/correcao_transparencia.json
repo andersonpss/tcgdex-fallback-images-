@@ -1,0 +1,3826 @@
+[
+  {
+    "id": "smp-SM01",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_001_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM01/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM01/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM02",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_002_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM02/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM02/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM03",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_003_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM03/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM03/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM05",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_005_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM05/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM05/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM06",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_006_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM06/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM06/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM07",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_007_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM07/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM07/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM08",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_008_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM08/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM08/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM09",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_009_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM09/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM09/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM10",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_010_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM10/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM10/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM100",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_100_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM100/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM100/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM101",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_101_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM101/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM101/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM102",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_102_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM102/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM102/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM103",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_103_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM103/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM103/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM104",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_104_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM104/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM104/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM105",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_105_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM105/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM105/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM106",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_106_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM106/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM106/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM107",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_107_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM107/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM107/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM11",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_011_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM11/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM11/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM115",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_115_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM115/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM115/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM116",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_116_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM116/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM116/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM117",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_117_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM117/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM117/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM118",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_118_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM118/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM118/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM119",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_119_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM119/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM119/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM12",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_012_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM12/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM12/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM120",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_120_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM120/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM120/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM121",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_121_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM121/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM121/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM122",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_122_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM122/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM122/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM123",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_123_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM123/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM123/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM124",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_124_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM124/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM124/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM125",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_125_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM125/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM125/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM126",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_126_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM126/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM126/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM127",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_127_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM127/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM127/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM128",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_128_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM128/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM128/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM129",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_129_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM129/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM129/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM13",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_013_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM13/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM13/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM130",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_130_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM130/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM130/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM131",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_131_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM131/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM131/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM132",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_132_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM132/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM132/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM133",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_133_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM133/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM133/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM134",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_134_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM134/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM134/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM135",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_135_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM135/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM135/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM136",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_136_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM136/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM136/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM137",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_137_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM137/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM137/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM138",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_138_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM138/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM138/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM139",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_139_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM139/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM139/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM14",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_014_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM14/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM14/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM140",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_140_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM140/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM140/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM141",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_141_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM141/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM141/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM142",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_142_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM142/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM142/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM143",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_143_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM143/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM143/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM144",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_144_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM144/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM144/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM145",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_145_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM145/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM145/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM146",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_146_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM146/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM146/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM147",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_147_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM147/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM147/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM148",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_148_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM148/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM148/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM149",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_149_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM149/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM149/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM15",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_015_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM15/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM15/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM150",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_150_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM150/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM150/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM151",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_151_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM151/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM151/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM152",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_152_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM152/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM152/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM153",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_153_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM153/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM153/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM154",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_154_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM154/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM154/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM155",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_155_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM155/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM155/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM156",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_156_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM156/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM156/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM157",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_157_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM157/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM157/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM158",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_158_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM158/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM158/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM159",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_159_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM159/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM159/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM16",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_016_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM16/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM16/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM160",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_160_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM160/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM160/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM161",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_161_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM161/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM161/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM162",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_162_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM162/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM162/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM163",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_163_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM163/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM163/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM164",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_164_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM164/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM164/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM165",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_165_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM165/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM165/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM166",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_166_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM166/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM166/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM167",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_167_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM167/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM167/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM168",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_168_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM168/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM168/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM169",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_169_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM169/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM169/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM17",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_017_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM17/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM17/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM170",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_170_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM170/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM170/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM171",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_171_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM171/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM171/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM172",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_172_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM172/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM172/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM173",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_173_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM173/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM173/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM174",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_174_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM174/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM174/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM175",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_175_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM175/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM175/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM176",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_176_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM176/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM176/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM177",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_177_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM177/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM177/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM178",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_178_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM178/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM178/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM179",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_179_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM179/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM179/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM18",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_018_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM18/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM18/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM180",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_180_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM180/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM180/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM181",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_181_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM181/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM181/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM182",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_182_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM182/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM182/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM183",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_183_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM183/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM183/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM184",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_184_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM184/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM184/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM185",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_185_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM185/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM185/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM186",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_186_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM186/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM186/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM187",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_187_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM187/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM187/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM188",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_188_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM188/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM188/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM189",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_189_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM189/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM189/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM19",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_019_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM19/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM19/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM190",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_190_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM190/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM190/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM191",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_191_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM191/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM191/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM192",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_192_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM192/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM192/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM193",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_193_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM193/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM193/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM194",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_194_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM194/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM194/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM195",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_195_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM195/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM195/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM196",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_196_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM196/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM196/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM197",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_197_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM197/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM197/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM198",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_198_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM198/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM198/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM199",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_199_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM199/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM199/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM20",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_020_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM20/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM20/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM200",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_200_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM200/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM200/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM201",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_201_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM201/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM201/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM202",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_202_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM202/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM202/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM203",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_203_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM203/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM203/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM204",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_204_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM204/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM204/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM205",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_205_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM205/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM205/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM206",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_206_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM206/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM206/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM207",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_207_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM207/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM207/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM208",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_208_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM208/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM208/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM209",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_209_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM209/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM209/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM21",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_021_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM21/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM21/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM210",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_210_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM210/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM210/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM211",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_211_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM211/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM211/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM212",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_212_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM212/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM212/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM213",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_213_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM213/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM213/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM214",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_214_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM214/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM214/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM215",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_215_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM215/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM215/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM216",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_216_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM216/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM216/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM217",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_217_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM217/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM217/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM218",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_218_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM218/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM218/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM219",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_219_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM219/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM219/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM22",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_022_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM22/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM22/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM220",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_220_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM220/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM220/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM221",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_221_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM221/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM221/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM222",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_222_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM222/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM222/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM223",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_223_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM223/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM223/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM224",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_224_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM224/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM224/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM225",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_225_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM225/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM225/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM226",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_226_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM226/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM226/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM227",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_227_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM227/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM227/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM228",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_228_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM228/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM228/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM229",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_229_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM229/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM229/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM23",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_023_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM23/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM23/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM230",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_230_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM230/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM230/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM231",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_231_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM231/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM231/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM232",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_232_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM232/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM232/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM233",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_233_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM233/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM233/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM234",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_234_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM234/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM234/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM235",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_235_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM235/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM235/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM236",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_236_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM236/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM236/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM237",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_237_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM237/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM237/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM238",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_238_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM238/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM238/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM239",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_239_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM239/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM239/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM24",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_024_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM24/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM24/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM240",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_240_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM240/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM240/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM241",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_241_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM241/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM241/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM242",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_242_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM242/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM242/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM243",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_243_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM243/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM243/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM244",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_244_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM244/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM244/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM25",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_025_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM25/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM25/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM26",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_026_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM26/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM26/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM27",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_027_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM27/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM27/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM28",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_028_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM28/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM28/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM29",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_029_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM29/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM29/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM30",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_030_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM30/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM30/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM31",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_031_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM31/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM31/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM32",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_032_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM32/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM32/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM33",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_033_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM33/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM33/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM34",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_034_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM34/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM34/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM35",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_035_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM35/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM35/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM36",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_036_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM36/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM36/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM37",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_037_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM37/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM37/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM38",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_038_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM38/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM38/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM39",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_039_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM39/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM39/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM40",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_040_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM40/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM40/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM41",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_041_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM41/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM41/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM42",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_042_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM42/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM42/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM43",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_043_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM43/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM43/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM44",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_044_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM44/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM44/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM45",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_045_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM45/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM45/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM46",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_046_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM46/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM46/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM47",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_047_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM47/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM47/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM48",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_048_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM48/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM48/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM49",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_049_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM49/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM49/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM50",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_050_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM50/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM50/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM51",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_051_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM51/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM51/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM52",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_052_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM52/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM52/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM53",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_053_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM53/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM53/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM54",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_054_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM54/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM54/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM55",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_055_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM55/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM55/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM56",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_056_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM56/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM56/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM57",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_057_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM57/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM57/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM58",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_058_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM58/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM58/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM59",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_059_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM59/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM59/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM60",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_060_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM60/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM60/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM61",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_061_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM61/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM61/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM62",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_062_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM62/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM62/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM63",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_063_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM63/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM63/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM64",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_064_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM64/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM64/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM65",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_065_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM65/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM65/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM66",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_066_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM66/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM66/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM67",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_067_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM67/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM67/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM68",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_068_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM68/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM68/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM69",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_069_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM69/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM69/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM70",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_070_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM70/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM70/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM71",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_071_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM71/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM71/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM72",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_072_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM72/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM72/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM73",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_073_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM73/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM73/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM74",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_074_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM74/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM74/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM75",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_075_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM75/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM75/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM76",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_076_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM76/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM76/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM77",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_077_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM77/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM77/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM78",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_078_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM78/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM78/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM79",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_079_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM79/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM79/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM80",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_080_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM80/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM80/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM81",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_081_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM81/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM81/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM82",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_082_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM82/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM82/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM83",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_083_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM83/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM83/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM84",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_084_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM84/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM84/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM85",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_085_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM85/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM85/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM86",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_086_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM86/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM86/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM87",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_087_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM87/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM87/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM88",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_088_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM88/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM88/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM89",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_089_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM89/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM89/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM90",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_090_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM90/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM90/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM91",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_091_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM91/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM91/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM92",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_092_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM92/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM92/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM93",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_093_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM93/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM93/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM94",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_094_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM94/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM94/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM95",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_095_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM95/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM95/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM96",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_096_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM96/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM96/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM97",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_097_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM97/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM97/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM98",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_098_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM98/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM98/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM99",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_099_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM99/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM99/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM30a",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_030a_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM30a/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM30a/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM103a",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_103a_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM103a/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM103a/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  },
+  {
+    "id": "smp-SM104a",
+    "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SMP/SMP_104a_R_PT.png",
+    "arquivos": [
+      {
+        "path": "pt/sm/smp/SM104a/high.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      },
+      {
+        "path": "pt/sm/smp/SM104a/low.webp",
+        "corrigido": true,
+        "alpha_min": 0
+      }
+    ]
+  }
+]

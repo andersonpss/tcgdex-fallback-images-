@@ -1,5 +1,11 @@
 Para preencher XY em português:
 
+A conversão preserva a transparência da fonte, incluindo os cantos arredondados.
+Para reparar os arquivos adicionados no commit `46eb5bbe`, execute
+`python corrigir_transparencia_xy.py`. A rotina compara o canal alfa com a fonte,
+substitui apenas arquivos afetados e registra a verificação em
+`relatorios/importacao_xy_pt/correcao_transparencia.json`.
+
 ```powershell
 python preencher_xy.py --baixar
 python preencher_xy.py --auditar

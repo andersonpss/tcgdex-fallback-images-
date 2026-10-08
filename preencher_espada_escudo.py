@@ -157,7 +157,8 @@ def baixar(cliente, linhas, linhas_base=None, serie='swsh'):
                     imagem.load()
                     if imagem.width < 400 or imagem.height < 550:
                         raise ValueError(f'Resolução insuficiente: {imagem.size}')
-                    imagem = imagem.convert('RGB')
+                    # Preserve a transparencia original, inclusive os cantos da carta.
+                    imagem = imagem.convert('RGBA')
                     for nome in faltam:
                         tamanho = (600, 825) if nome == 'high' else (245, 337)
                         saida = ImageOps.contain(imagem, tamanho, Image.Resampling.LANCZOS)
